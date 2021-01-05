@@ -22,7 +22,7 @@ class _RetirementState extends State<Retirement> {
     return Scaffold(
       resizeToAvoidBottomPadding: false,
       appBar: AppBar(
-        title: Center(child: Center(child: Text("Retirement Calculator"))),
+        title: Center(child: Text("Retirement Calculator")),
         elevation: 0,
       ),
       body: Form(
